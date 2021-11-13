@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: radial-gradient(#fff,#ffd6d6,#fff,#ffd6d6)
+}
+.s1 {
+    margin-top: 40px;
+}
+#btn_s1 {
+    width: 300px;
+    height: 75px;
+    background-color: lime;
+    border: transparent;
+    border-radius: 15px;
+}
